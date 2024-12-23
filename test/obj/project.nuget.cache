@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1YLzTAY/p2CNX+kYyGlC7WJWFdRud5YaRPIzrKfj8XWstPlOlBA7kVfY8ONO1UjWugtwzcC/UUwrL+vGSOSRBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tihohod\\Desktop\\Работа\\figurine\\test\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tihohod\\.nuget\\packages\\xunit\\2.9.2\\xunit.2.9.2.nupkg.sha512",
+    "C:\\Users\\Tihohod\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Tihohod\\.nuget\\packages\\xunit.analyzers\\1.16.0\\xunit.analyzers.1.16.0.nupkg.sha512",
+    "C:\\Users\\Tihohod\\.nuget\\packages\\xunit.assert\\2.9.2\\xunit.assert.2.9.2.nupkg.sha512",
+    "C:\\Users\\Tihohod\\.nuget\\packages\\xunit.core\\2.9.2\\xunit.core.2.9.2.nupkg.sha512",
+    "C:\\Users\\Tihohod\\.nuget\\packages\\xunit.extensibility.core\\2.9.2\\xunit.extensibility.core.2.9.2.nupkg.sha512",
+    "C:\\Users\\Tihohod\\.nuget\\packages\\xunit.extensibility.execution\\2.9.2\\xunit.extensibility.execution.2.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

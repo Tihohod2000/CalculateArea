@@ -1,0 +1,17 @@
+%Таблица продуктов (Products):
+ProductID — уникальный идентификатор продукта
+ProductName — название продукта
+
+Таблица категорий (Categories):
+CategoryID — уникальный идентификатор категории
+CategoryName — название категории
+
+Таблица связи между продуктами и категориями (ProductCategories):
+ProductID — идентификатор продукта (внешний ключ, ссылается на Products)
+CategoryID — идентификатор категории (внешний ключ, ссылается на Categories)%
+
+
+SELECT p.ProductName, c.CategoryName
+FROM Products p
+LEFT JOIN ProductCategories pc ON p.ProductID = pc.ProductID
+LEFT JOIN Categories c ON pc.CategoryID = c.CategoryID
